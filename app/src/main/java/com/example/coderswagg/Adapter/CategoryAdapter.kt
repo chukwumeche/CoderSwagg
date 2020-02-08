@@ -1,4 +1,4 @@
 package com.example.coderswagg.Adapter
 
-class Adapter {
+class CategoryAdapter {
 }
